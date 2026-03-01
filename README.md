@@ -33,7 +33,7 @@ This project helped me understand real-world Cloud and DevOps workflows.
 
 ## 🏗️ Architecture Workflow
 
-![Architecture](screenshots/Architecture.png)
+![Architecture](Screenshots/Architecture.png)
 
 ### Workflow Steps:
 
